@@ -1,0 +1,486 @@
+/* Start nav for mobile */
+nav{
+   width: 100%;
+   height: 56px;
+   background-color: #121212;
+   position: relative;
+   top: 0;
+   left: 0;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+
+/* Start left part */
+nav>div.left1{
+   width: 33%;
+   height: 100%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   gap: 5px;
+}
+/* Start menu for desktop */
+nav>div.left1>button.desktop-menu{
+   width: 96px;
+   height: 32px;
+   direction: ltr;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-family: Roboto-Regular;
+   font-size: 14px;
+   font-weight: bold;
+   color: #fff;
+   letter-spacing: 1px;
+   display: none;
+}
+
+nav>div.left1 div.offcanvas-top{
+   height: 100%;
+   max-height: unset;
+   background-color: #1f1f1f !important;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+nav>div.left1 div.offcanvas-top>div.offcanvas-header{
+   width: 90%;
+   height: 62px;
+   margin-top: 20px;
+   display: flex;
+   justify-content: space-between;
+   position: relative;
+}
+
+nav>div.left1 div.offcanvas-top>div.offcanvas-header>button.btn-close{
+   width: 35px !important;
+   height: 35px !important;
+   background-color: #f5c518;
+   border-radius: 50%;
+   opacity: 1;
+   box-sizing: content-box;
+}
+
+nav>div.left1 div.offcanvas-top>div.offcanvas-body{
+   width: 90%;
+   height: 700px !important;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   position: relative;
+   overflow-y: unset;
+   gap: 10px;
+   direction: ltr;
+}
+
+
+nav>div.left1 div.offcanvas-top>div.offcanvas-body>div.column{
+   width: 25%;
+   height: 100%;
+   display: flex;
+   flex-direction: column;
+   align-items: end;
+   gap: 10px;
+}
+
+nav>div.left1 div.offcanvas-top>div.offcanvas-body>div.column>span{
+   width: 100%;
+   height: fit-content;
+   font-family: Roboto-Regular;
+   font-size: 22px;
+   font-weight: 600;
+   letter-spacing: 1px;
+   color: #fff;
+   display: flex;
+   align-items: center;
+   gap: 5px;
+}
+
+nav>div.left1 div.offcanvas-top>div.offcanvas-body>div.column>a{
+   width: 90%;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #fff;
+   text-decoration-line: none;
+}
+/* End menu for desktop */
+
+
+/* Start menu */
+nav>div.left1>button.btn-primary{
+   width: 30%;
+   height: 100%;
+   border-radius: 0;
+   background: unset;
+   border: unset;
+}
+
+nav>div.left1>button.btn-primary>span.name{
+   display: none;
+}
+
+nav>div.left1>div.offcanvas-start{
+   max-width: 78% !important;
+   background-color: #1f1f1f;
+   color: #fff ;
+   overflow: auto;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-header{
+   height: 56px !important;
+}
+
+nav>div.left1>div.offcanvas-start button.btn-close{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1 !important;
+}
+
+nav>div.left1>div.offcanvas-start button.btn-close>svg{
+   color: #ffffff !important;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body{
+   height: fit-content;
+   background-color: #1f1f1f;
+   padding: 0 !important;
+}
+
+/* Start accordion part */
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-flush{
+   width: 100% !important;
+   background-color: lightblue;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-item{
+   border: #1f1f1f;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-flush button.accordion-button{
+   height: 41px !important;
+   background-color: #1f1f1f;
+   color: #f5c518;
+   border-color: #1f1f1f;
+   display: flex;
+   flex-direction: row;
+   gap: 10px;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-flush button.accordion-button::after{
+   color: #fff !important;
+   opacity: 1;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-flush button.collapsed{
+   color: #fff;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-flush button.collapsed>svg{
+   color: #8f8f8f !important;
+}
+
+/* Start accordion body */
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-item div.accordion-body{
+   background-color: #1f1f1f;
+   padding-right: 0px !important;
+   color: #fff;
+   border-color: #1f1f1f;
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-item div.accordion-body>a{
+   width: 88%;
+   padding-left: 33px;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #fff;
+   text-decoration-line: none;
+}
+/* End accordion body */
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body div.accordion-item h2.accordion-header{
+   border: #1f1f1f;
+}
+/* End accordion part */
+
+/* Start IMDb pro part */
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.IMDbpro{
+   width: 100%;
+   height: 70px;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.IMDbpro>a{
+   width: 100%;
+   height: 100%;
+   text-decoration-line: none;
+   display: flex;
+   flex-direction: row;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.IMDbpro>a>div.left2{
+   width: 80%;
+   height: 100%;
+   padding: 24px 0 0 24px;
+   display: flex;
+   flex-direction: column;
+   gap: 3px;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.IMDbpro>a>div.left2>svg{
+   height: fit-content;
+   color: #fff;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.IMDbpro>a>div.left2>div.wr1{
+   width: 100% !important;
+   color: #fff;
+   font-family: Roboto-Regular;
+   font-size: 14px;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.IMDbpro>a>div.right2{
+   width: 19%;
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.IMDbpro>a>div.right2>svg{
+   color: #8f8f8f !important;
+}
+/* End IMDb pro part */
+
+/* Start language part */
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.language{
+   width: 100%;
+   height: 70px;
+   display: flex;
+   flex-direction: row;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.language>div.left3{
+   width: 80%;
+   height: 100%;
+   padding: 12px 0 0 24px;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.language>div.left3>div.top{
+   width: 100%;
+   font-family: Roboto-Regular;
+   opacity: 0.5;
+   font-size: 14px;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.language>div.right3{
+   width: 20%;
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+nav>div.left1>div.offcanvas-start>div.offcanvas-body>div.language>div.right3>svg{
+   color: #8f8f8f !important;
+}
+/* End language part */
+
+/* End menu */
+
+
+/* Start IMDb logo */
+
+/* End IMDb logo */
+/* End left part */
+
+/* Start right part */
+nav>div.right1{
+   width: 67%;
+   height: 100%;
+   padding-right: 5px;
+   display: flex;
+   justify-content: right;
+   align-items: center;
+   gap: 0px !important;
+}
+
+/* Start searchbar */
+nav>div.right1>button.btn-primary{
+   width: 15% !important;
+   height: 30px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background: unset !important;
+   border: unset;
+   padding: 0 !important;
+}
+
+nav>div.right1>button.btn-primary>svg{
+   width: 24px !important;
+   height: 24px !important;
+}
+
+nav>div.right1>div.offcanvas{
+   width: 100% !important;
+   height: 57px !important;
+   background-color: #1f1f1f;
+   color: #fff;
+   overflow: auto;
+}
+
+nav>div.right1>div.offcanvas div.offcanvas-body{
+   display: none;
+}
+
+/* Start offcanvas header */
+nav>div.right1>div.offcanvas div.offcanvas-header{
+   height: 100% !important;
+   background-color: #1f1f1f;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   gap: 5px;
+   padding: 0 16px 0 5px;
+}
+
+nav>div.right1>div.offcanvas button.btn-close{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1 !important;
+}
+
+nav>div.right1>div.offcanvas button.btn-close>svg{
+   width: 24px !important;
+   height: 24px !important;
+   color: #fff;
+}
+
+/* Start all part */
+nav>div.right1>div.offcanvas div.offcanvas-header>div.all{
+   width: 17.5%;
+   height: 32px;
+   border-right: 1px solid #101010;
+}
+
+nav>div.right1>div.offcanvas div.offcanvas-header>div.all>a{
+   width: 100%;
+   height: 100%;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   text-decoration-line: none;
+   gap: 2px !important;
+}
+
+nav>div.right1>div.offcanvas div.offcanvas-header>div.all>a>span{
+   font-family: Roboto-Regular;
+   font-size: 14px;
+   color: #fff;
+}
+
+nav>div.right1>div.offcanvas div.offcanvas-header>div.all>a>svg{
+   color: #fff !important;
+}
+/* End all part */
+
+/* Start input part */
+nav>div.right1>div.offcanvas div.offcanvas-header>input.searchbar{
+   width: 70%;
+   height: 100% !important;
+   background-color: #1f1f1f;
+   border: unset;
+   color: #fff;
+   padding-left: 5px;
+}
+
+nav>div.right1>div.offcanvas div.offcanvas-header>input.searchbar:focus{
+   outline: unset;
+}
+/* End input part */
+/* End offcanvas header */
+/* End searchbar */
+
+/* Start searchbar for tablet & desktop */
+nav>div.right1>div.searchbar-large{
+   display: none;
+}
+/* End searchbar for tablet & desktop */
+
+nav>div.right1>div.watchlist,
+nav>div.right1>div.en{
+   display: none;
+}
+
+
+/* Start sign in part */
+nav>div.right1>div.signin{
+   width: 34%;
+   height: 36px;
+   background: unset;
+   border-radius: 20px;
+   border: unset;
+}
+
+nav>div.right1>div.signin:hover{
+   background-color: #f0efef5b;
+}
+
+nav>div.right1>div.signin>a{
+   width: 100%;
+   height: 100%;
+   border-radius: inherit;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-decoration-line: none;
+}
+
+nav>div.right1>div.signin>a>span.signin{
+   font-family: Roboto-Regular;
+   font-size: 14px;
+   color: #fff;
+   font-weight: 600;
+}
+/* End sign in part */
+
+/* Start use app part */
+nav>div.right1>div.yellow{
+   width: 28%;
+   height: 36px;
+   background-color: #f5c518;
+   border-radius: 20px;
+   border: unset;
+}
+
+nav>div.right1>div.yellow>a{
+   width: 100%;
+   height: 100%;
+   border-radius: inherit;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-decoration-line: none;
+}
+
+nav>div.right1>div.yellow>a>span.yellow{
+   font-family: Roboto-Regular;
+   font-size: 14px;
+   color: #000;
+   font-weight: 600;
+}
+/* End use app part */
+
+/* End right part */
+
+/* End nav for mobile */

@@ -1,0 +1,25 @@
+main>div.section15{
+   width: 1280px;
+   height: 94px;
+   margin-top: 30px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   align-items: center;
+}
+
+main>div.section15>h3{
+   width: 100%;
+   padding: 0 20px;
+   font-family: Roboto-Regular;
+   font-size: 22px;
+   font-weight: 600;
+   color: #fff;
+}
+
+main>div.section15>span{
+   width: 100%;
+   padding: 0 20px;
+   font-size: 16px;
+   color: #fff;
+}

@@ -1,0 +1,129 @@
+main>div.section13{
+   width: 1280px;
+   height: 380px;
+   background-color: #000;
+   margin-top: 50px;
+   position: relative;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+/* Start title */
+main>div.section13>div.title-sec3{
+   width: 100%;
+   height: 50px;
+   margin-top: 20px;
+   padding: 0 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: start;
+   align-items: start;
+   gap: 5px;
+}
+
+main>div.section13>div.title-sec3>h3{
+   width: fit-content;
+   margin-bottom: 0;
+   padding-left: 10px;
+   border-left: 4px solid #f5c518;
+   border-radius: 2px;
+   font-family: Roboto-Regular;
+   font-size: 22px;
+   font-weight: 600;
+   color: #fff;
+   letter-spacing: 1px;
+}
+
+main>div.section13>div.title-sec3>span{
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #FFFFFFB3;
+   letter-spacing: 1px;
+}
+/* End title */
+
+/* Start swiper 3 */
+main>div.section13>div.Swiper10{
+    width: 100%;
+   height: 270px;
+   background-color: #000;
+   padding: 0 30px;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide{
+    width: 46%;
+   height: 250px;
+   background-color: #000;
+   align-self: flex-end;
+   display: flex;
+   flex-direction: column;
+   gap: 2px;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.daddy{
+   width: 100%;
+   height: 193px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.daddy>img{
+   width: 193px;
+   height: 193px;
+   border-radius: 50%;
+   object-fit: cover;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.top{
+   width: 100%;
+   height: 18px;
+   margin-top: 5px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   color: #fff;
+   font-family: Roboto-Regular;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.top>div.son{
+   margin-right: 3px;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.top>div.girl{
+   width: 40%;
+   display: flex;
+   flex-direction: row;
+   color: #FFFFFFB3 !important;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.top>div.girl>span{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.top>div.girl>span>svg{
+   box-sizing: content-box;
+   margin-right: -2%;
+   margin-left: -2%;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.bott{
+   width: 100%;
+   height: fit-content;
+   margin-top: 2px;
+   display: flex;
+   justify-content: center;
+   align-items: start;
+}
+
+main>div.section13>div.Swiper10 div.swiper-slide>div.bott>span{
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #fff;
+}
+/* End swiper 3 */

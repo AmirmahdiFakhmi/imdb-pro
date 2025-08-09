@@ -1,0 +1,196 @@
+main>div.section5{
+   width: 100%;
+   height: 520px;
+   background-color: #121212;
+   margin-top: 50px;
+}
+
+/* Start title part */
+main>div.section5>div.week{
+   width: 95%;
+   height: 28px;
+   margin-top: 20px;
+   justify-self: center;
+   border-left: 4px solid #f5c518;
+   border-radius: 2px;
+}
+
+main>div.section5>div.week>h3{
+   font-family: Roboto-Regular;
+   font-size: 22px;
+   font-weight: 600;
+   color: #fff;
+   margin-left: 10px;
+   letter-spacing: 1px;
+}
+/* End title part */
+
+/* Start swiper 4 */
+main>div.section5>div.Swiper4{
+   width: 100%;
+   height: 480px;
+   background-color: #121212;
+   padding: 0 20px;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide{
+   width: 40%;
+   height: 420px;
+   background-color: #1a1a1a;
+   border-radius: 12px;
+   align-self: center;
+   display: flex;
+   flex-direction: column;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.mommy{
+   width: 100%;
+   height: 214px;
+   background-color: lightcoral;
+   border-radius: 0 12px 0 0;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.mommy>img{
+   width: 100%;
+   height: 100%;
+   border-radius: 0 12px 0 0;
+   object-fit: cover;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.mommy>div.svg-rapper{
+   width: 23%;
+  height: 45px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.mommy>div.svg-rapper>svg:nth-of-type(1){
+   opacity: 0.6 !important;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.mommy>div.svg-rapper>svg:nth-of-type(2){
+  box-sizing: content-box;
+  z-index: 1;
+  position: absolute;
+  color: #fff !important;
+  margin-top: 5px;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description{
+   width: 100%;
+   height: 186px;
+   background-color: #1a1a1a;
+   padding: 15px 0;
+   border-radius: 0 0 12px 12px;
+   display: flex;
+   flex-direction: column;
+   gap: 16px;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child1{
+   width: 45%;
+   height: fit-content;
+   margin-left: 10px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child1>span.grandchild{
+   width: fit-content;
+   height: 100%;
+   color: #FFFFFFB3;
+   display: flex;
+   align-items: center;
+   gap: 2px;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child1>button.bluestar{
+   width: fit-content;
+   height: 100%;
+   border: unset;
+   background: unset;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child2{
+   width: 100%;
+   height: 40px;
+   padding: 0 10px;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child2>a{
+   width: 95%;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #fff;
+   text-decoration-line: none;
+   line-height: 20px !important;
+   display: inline-block;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child3{
+   width: 100%;
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child3>button{
+   width: 90%;
+   height: 36px;
+   background-color: #252525;
+   border: unset;
+   border-radius: 18px;
+   padding-right: 8px;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child3>button>a{
+   width: 100%;
+   height: 100%;
+   border-radius: 18px;
+   text-decoration-line: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child3>button>a>span{
+   width: 60%;
+   font-family: Roboto-Regular;
+   font-size: 14px;
+   font-weight: 500;
+   color: #4799ef;
+   letter-spacing: 1px;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child4{
+   width: 100%;
+   height: 60px;
+   display: flex;
+   justify-content: center;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child4>div.trailer{
+   width: 60%;
+   height: 100%;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   gap: 5px;
+}
+
+main>div.section5>div.Swiper4 div.swiper-slide>div.description>div.child4>div.trailer>span{
+   font-family: Roboto-Regular;
+   font-size: 14px;
+   font-weight: 500;
+   color: #FFF;
+   letter-spacing: 1px;
+}
+/* End swiper 4 */

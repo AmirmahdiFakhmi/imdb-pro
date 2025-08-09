@@ -1,0 +1,291 @@
+main{
+  width: 100%;
+  height: fit-content;
+  background-color: #000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+main>div.section1{
+  width: 100%;
+  height: 550px;
+  margin-top: 40px; 
+  position: relative;
+}
+
+main>div.section1>div.upnext{
+  display: none;
+}
+
+/* Start Mobile swiper 1 */
+main>div.section1>div.mobswpiper1{
+  width: 98%;
+  height: 493px;
+  border-radius: 12px;
+  position: relative;
+}
+
+main>div.section1>div.mobswpiper1>div.swiper-button-next,
+main>div.section1>div.mobswpiper1>div.swiper-button-prev{
+  width: 50px;
+  height: 65px;
+  background-color: rgba(91, 90, 90, 0.263);
+  border-radius: 4px;
+  border: 1px solid #fff;
+  position: absolute;
+  top: 35% !important;
+}
+
+main>div.section1>div.mobswpiper1>div.swiper-button-next::after,
+main>div.section1>div.mobswpiper1>div.swiper-button-prev::after{
+  color: #fff !important;
+}
+
+main>div.section1>div.mobswpiper1 div.img-rapper{
+  width: 100%;
+  height: 423px;
+  border-radius: 12px 12px 0 0;
+  position: absolute;
+}
+
+main>div.section1>div.mobswpiper1 div.img-rapper>img{
+  width: 100% !important;
+  height: 100% !important;
+  border-radius: 12px 12px 0 0;
+  object-fit: cover;
+  z-index: -1;
+}
+
+main>div.section1>div.mobswpiper1 div.img-rapper>div.linear{
+  width: 100%;
+  height: 100%;
+  border-radius: 12px 12px 0 0;
+  background: linear-gradient(180deg,transparent 0,transparent 65%,rgba(0,0,0,.35) 83.5%,rgba(0,0,0,.75));
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+
+main>div.section1>div.mobswpiper1 div.poster{
+  width: 18%;
+  height: 195px;
+  border-radius:12px;
+  z-index: 5;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+main>div.section1>div.mobswpiper1 div.poster>img{
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+  z-index: -1;
+}
+
+main>div.section1>div.mobswpiper1 div.poster>div.svg-rapper{
+  width: 34%;
+  height: 56px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main>div.section1>div.mobswpiper1 div.poster>div.svg-rapper svg.ipc-watchlist-ribbon__bg{
+  opacity: 0.4 !important;
+}
+
+main>div.section1>div.mobswpiper1 div.poster>div.svg-rapper svg.ipc-icon{
+  box-sizing: content-box;
+  z-index: 1;
+  position: absolute;
+  color: #fff !important;
+}
+
+/* Start caption part for tablet & desktop */
+main>div.section1>div.mobswpiper1 div.captionlarge{
+  width: 75%;
+  height: 104px;
+  position: absolute;
+  right: 0;
+  bottom: 15px;
+  z-index: 55;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+main>div.section1>div.mobswpiper1 div.captionlarge>div.start{
+  width: 15%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+main>div.section1>div.mobswpiper1 div.captionlarge>div.mid{
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+main>div.section1>div.mobswpiper1 div.captionlarge>div.mid>div.boy1{
+  width: 100%;
+  height: fit-content;
+  font-family: Roboto-Regular;
+  font-size: 24px;
+  color: #fff;
+  letter-spacing: 1px;
+  line-height: 24px;
+}
+
+main>div.section1>div.mobswpiper1 div.captionlarge>div.mid>div.boy2{
+  width: 100%;
+  height: fit-content;
+  font-family: Roboto-Regular;
+  font-size: 20px;
+  color: #FFFFFFB3;
+  letter-spacing: 1px;
+  line-height: 24px;
+}
+
+main>div.section1>div.mobswpiper1 div.captionlarge>div.mid>div.boy3{
+  width: 100%;
+  height: fit-content;
+  font-family: Roboto-Regular;
+  font-size: 12px;
+  color: #FFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+main>div.section1>div.mobswpiper1 div.captionlarge>div.end{
+  width: 15%;
+  height: 100%;
+  font-family: Roboto-Regular;
+  font-size: 20px;
+  color: #FFFFFFB3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* End caption part for tablet & desktop */
+
+main>div.section1>div.mobswpiper1 div.caption{
+  width: 70%;
+  height: 200px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec1{
+  width: 100%;
+  height: 50px;
+  padding-left: 5px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec1>svg{
+  width: 72px !important;
+  height: 72px !important;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec1>svg:hover{
+  color: #f5c518 !important;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec1>div.span-rapper{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec1>div.span-rapper>span{
+  font-family: Roboto-Regular;
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec2{
+  width: 100%;
+  height: fit-content;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec2>span{
+  width: 90%;
+  height: 100%;
+  font-size: 16px;
+  color: #fff;
+  font-family: Roboto-Regular;
+  font-weight: 600;
+  line-height: 20px !important;
+  vertical-align: baseline;
+  display: inline-block;
+  letter-spacing: 1px;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec3{
+  width: 100%;
+  height: fit-content;
+  font-family: Roboto-Regular;
+  font-size: 14px;
+  color: #FFFFFFB3;
+  font-weight: 600;
+  line-height: 15px !important;
+  display: inline-block;
+  letter-spacing: 1px;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec4{
+  width: 100%;
+  height: 24px;
+  padding-left: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+main>div.section1>div.mobswpiper1 div.caption>div.sec4>span{
+  font-size: 12px;
+  color: #FFFFFFB3;
+  font-family: Roboto-Regular;
+}
+/* End Mobile swiper 1 */
+
+/* Start Browse trailers part */
+main>div.section1>div.brows{
+  width: 90%;
+  height: 42px;
+  justify-self: center;
+  display: flex;
+  justify-content: left;
+  align-items: end;
+}
+
+main>div.section1>div.brows>a{
+ font-family: Roboto-Regular;
+ font-size: 20px;
+ color: #fff;
+ font-weight: 600;
+ text-decoration-line: none; 
+ letter-spacing: 1px;
+}
+
+main>div.section1>div.brows>a:hover{
+  color: #f5c518 !important;
+}
+/* End Browse trailers part */

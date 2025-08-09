@@ -1,0 +1,124 @@
+main>div.section14{
+   width: 1280px;
+   height: 290px;
+   background-color: #000;
+   margin-top: 10px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+/* Start title part */
+main>div.section14>div.news{
+    width: 100%;
+   height: 50px;
+   margin-top: 20px;
+   padding: 0 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: start;
+   align-items: start;
+   gap: 5px;;
+}
+
+main>div.section14>div.news>h3{
+   width: fit-content;
+   margin-bottom: 0;
+   padding-left: 10px;
+   border-left: 4px solid #f5c518;
+   border-radius: 2px;
+   font-family: Roboto-Regular;
+   font-size: 22px;
+   font-weight: 600;
+   color: #fff;
+   letter-spacing: 1px;
+}
+/* End title part */
+
+/* Start swiper 11 */
+main>div.section14>div.Swiper11{
+   width: 100%;
+   height: 133px;
+   padding: 0 30px;
+}
+
+main>div.section14>div.Swiper11 div.swiper-slide{
+   height: 100%;
+   display: flex;
+   flex-direction: row;
+   gap: 15px;
+}
+
+main>div.section14>div.Swiper11 div.swiper-slide>div.left{
+   width: 90px;
+   height: 133px;
+   border-radius: 12px;
+}
+
+main>div.section14>div.Swiper11 div.swiper-slide>div.left>img{
+   width: 100%;
+   height: 100%;
+   border-radius: 12px;
+   object-fit: cover;
+}
+
+main>div.section14>div.Swiper11 div.swiper-slide>div.right{
+   width: 70%;
+   height: 116px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+main>div.section14>div.Swiper11 div.swiper-slide>div.right>p{
+   width: 90%;
+   margin-bottom: 0;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #fff;
+}
+
+main>div.section14>div.Swiper11 div.swiper-slide>div.right>div.date{
+   width: 100%;
+   height: 16px;
+   display: flex;
+   flex-direction: row;
+   gap: 7px;
+}
+
+main>div.section14>div.Swiper11 div.swiper-slide>div.right>div.date>span{
+   font-family: Roboto-Regular;
+   font-size: 12px;
+   color: #fff;
+}
+/* End swiper 11 */
+
+/* Start swiper 12 */
+main>div.section14>div.Swiper12{
+   width: 100%;
+   height: 40px;
+   margin-top: 15px;
+   padding-left: 30px;
+}
+
+main>div.section14>div.Swiper12 div.swiper-slide{
+   width: fit-content !important;
+   height: 30px;
+   margin-right: 10px !important;
+   padding: 3px 12px !important;
+   background-color: #000;
+   align-self: center;
+   outline: 1px solid rgb(96, 96, 96);
+   border-radius: 14px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+}
+
+main>div.section14>div.Swiper12 div.swiper-slide>span{
+   font-family: Roboto-Regular;
+   font-size: 14px;
+   color: #fff;
+}
+/* End swiper 12 */

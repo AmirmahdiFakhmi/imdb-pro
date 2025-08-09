@@ -1,0 +1,75 @@
+main>div.section7{
+   width: 100%;
+   height: 260px;
+   background-color: #121212;
+   margin-top: 10px;
+}
+
+/* Start title part */
+main>div.section7>div.interests{
+   width: 90%;
+   height: 22px;
+   margin-top: 20px;
+   border-left: 4px solid #f5c518;
+   border-radius: 2px;
+   justify-self: center;
+}
+
+main>div.section7>div.interests>h3{
+   font-family: Roboto-Regular;
+   font-size: 18px;
+   font-weight: 600;
+   color: #fff;
+   margin-left: 10px;
+   letter-spacing: 1px;
+}
+/* End title part */
+
+/* Start swiper 6 */
+main>div.section7>div.Swiper6{
+   width: 100%;
+   height: 175px;
+   background-color: #121212;
+   margin-top: 15px;
+   padding-left: 15px;
+   align-self: center;
+}
+
+main>div.section7>div.Swiper6 div.swiper-slide{
+   height: 162px;
+   background-color: #1a1a1a;
+   border-radius: 12px 12px 0 0;
+   align-self: center;
+   display: flex;
+   flex-direction: column;
+}
+
+main>div.section7>div.Swiper6 div.swiper-slide>div.granddad{
+   width: 100%;
+   height: 124px;
+   background-color: lightcoral;
+   border-radius: 12px 12px 0 0;
+}
+
+main>div.section7>div.Swiper6 div.swiper-slide>div.granddad>img{
+   width: 100%;
+   height: 100%;
+   border-radius: 12px 12px 0 0;
+   object-fit: cover;
+}
+
+main>div.section7>div.Swiper6 div.swiper-slide>div.grandmom{
+   width: 100%;
+   height: 38px;
+   padding-left: 7px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+}
+
+main>div.section7>div.Swiper6 div.swiper-slide>div.grandmom>span{
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #fff;
+}
+/* End swiper 6 */

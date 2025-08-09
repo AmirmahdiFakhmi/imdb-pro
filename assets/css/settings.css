@@ -1,0 +1,17 @@
+*{
+   margin: 0;
+   padding-right: 0;
+   box-sizing: border-box;
+}
+
+html{
+   background: #000;
+}
+
+@font-face {
+   font-family: Roboto-Regular;
+   src: url("../fonts/Regular/cm9ib3Rv._TTW_\ \(1\).woff2");
+   src: url("../fonts/Regular/Roboto-Regular.eot");
+   src: url("../fonts/Regular/Roboto-Regular.ttf");
+   src: url("../fonts/Regular/Roboto-Regular.woff");
+}

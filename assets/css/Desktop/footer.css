@@ -1,0 +1,314 @@
+footer{
+   width: 100%;
+   height: 320px;
+   background-color: #000;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+   align-items: center;
+}
+
+/* Start footer for desktop */
+footer>div.line1{
+   width: 75%;
+   height: 100px;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+}
+
+footer>div.line1>div.grandgirl{
+   width: 49%;
+   height: 100%;
+   border-radius: 8px;
+   border: 1px solid rgb(68, 68, 68);
+   display: flex;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(1){
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 5px;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(1)>div.no1{
+   width: 100%;
+   height: fit-content;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-family: Roboto-Regular;
+   font-size: 20px;
+   color: #fff;
+   font-weight: bold;
+   letter-spacing: 1px;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(1)>div.no2{
+   width: 80%;
+   display: flex;
+   flex-direction: row;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(1)>div.no2>a{
+   width: 20%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(2){
+   flex-direction: row;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(2)>div.no3{
+   width: 70%;
+   height: 100%;
+   padding-left: 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(2)>div.no3>span:nth-of-type(1){
+   font-family: Roboto-Regular;
+   font-size: 20px;
+   font-weight: bold;
+   color: #fff;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(2)>div.no3>span:nth-of-type(2){
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #ffffffb3;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(2)>div.no4{
+   width: 30%;
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+footer>div.line1>div.grandgirl:nth-of-type(2)>div.no4>svg{
+   border-radius: 12px;
+   background-color: #fff !important;
+}
+
+footer>div.line2{
+   width: 60%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+footer>div.line2>a{
+   text-decoration-line: none;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #fff;
+}
+
+footer>div.line3{
+   width: 80%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+footer>div.line3>a{
+   text-decoration-line: none;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #fff;
+}
+
+footer>div.line4{
+   width: 30%;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+footer>div.line4>p{
+   font-family: Roboto-Regular;
+   font-size: 12px;
+   color: #ffffffb3;
+}
+/* End footer for desktop */
+
+/* Start part 1 */
+footer>div.part1{
+   width: 40%;
+   height: 48px;
+   display: flex;
+   flex-direction: row;
+   display: none;
+}
+
+footer>div.part1>a{
+   width: 20%;
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+/* End part 1 */
+
+/* Start part 2 */
+footer>div.part2{
+   width: 40%;
+   height: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   display: none;
+}
+
+footer>div.part2>a{
+   width: fit-content;
+   height: 100%;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #fff;
+   letter-spacing: 1px;
+   text-decoration-line: none;
+   line-height: 40px;
+}
+/* End part 2 */
+
+/* Start part 3 */
+footer>div.part3{
+   width: 50%;
+   height: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   display: none;
+}
+
+footer>div.part3>a{
+   width: fit-content;
+   height: 100%;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #fff;
+   text-decoration-line: none;
+   line-height: 40px;
+}
+/* End part 3 */
+
+/* Start part 4 */
+footer>div.part4{
+   width: 40%;
+   height: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   display: none;
+}
+
+footer>div.part4>a{
+   width: fit-content;
+   height: 100%;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #fff;
+   text-decoration-line: none;
+   line-height: 40px;
+}
+/* End part 4 */
+
+/* Start part 5 */
+footer>div.part5{
+   width: 55%;
+   height: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   display: none;
+}
+
+footer>div.part5>a{
+   width: fit-content;
+   height: 100%;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #fff;
+   text-decoration-line: none;
+   line-height: 40px;
+}
+/* End part 5 */
+
+/* Start part 6 */
+footer>div.part6{
+   width: 80%;
+   height: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   display: none;
+}
+
+footer>div.part6>a{
+   width: fit-content;
+   height: 100%;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #fff;
+   text-decoration-line: none;
+   line-height: 40px;
+}
+/* End part 6 */
+
+/* Start part 7 */
+footer>div.part7{
+   width: 80%;
+   height: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   display: none;
+}
+
+footer>div.part7>a{
+   width: fit-content;
+   height: 100%;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   font-weight: 500;
+   color: #fff;
+   text-decoration-line: none;
+   line-height: 40px;
+}
+/* End part 7 */
+
+/* Start part 8 */
+footer>div.part8{
+   width: 80%;
+   height: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   display: none;
+}
+
+footer>div.part8>a{
+   width: fit-content;
+   height: 100%;
+   font-family: Roboto-Regular;
+   font-size: 12px;
+   font-weight: 500;
+   color: #ffffffb3;
+   text-decoration-line: none;
+   line-height: 40px;
+}
+/* End part 8 */

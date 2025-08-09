@@ -1,0 +1,161 @@
+main>div.section8{
+   width: 1280px;
+   height: 495px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+/* Start title part */
+main>div.section8>div.exclusive{
+   width: 100%;
+   height: 70px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+   padding: 0 20px;
+}
+
+main>div.section8>div.exclusive>h3{
+   margin-top: 5px;
+   font-family: Roboto-Regular;
+   font-size: 28px;
+   font-weight: 600;
+   color: #f5c518;
+   letter-spacing: 1px;
+}
+/* End title part */
+
+/* Start main part */
+main>div.section8>div.granddaddy{
+   width: 100%;
+   height: 424px;
+   background-color: #000;
+   padding-top: 25px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 15px;
+}
+
+main>div.section8>div.granddaddy>div.originals{
+   width: 100%;
+   height: 74px;
+   padding: 0 20px;
+}
+
+main>div.section8>div.granddaddy>div.originals>h3{
+   border-left: 4px solid #f5c518;
+   border-radius: 2px;
+   padding-left: 7px;
+   font-family: Roboto-Regular;
+   font-size: 22px;
+   font-weight: 600;
+   color: #fff;
+}
+
+main>div.section8>div.granddaddy>div.originals>span{
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #ffffffb3;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7{
+   width: 100%;
+   height: 350px;
+   background-color: #000;
+   padding-left: 20px;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide{
+   height: 100%;
+   border-radius: 12px 12px 0 0;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.grandmommy{
+   width: 100%;
+   height: 227px;
+   border-radius: 12px;
+   position: relative;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.grandmommy>div.linear{
+   width: 100%;
+   height: 100%;
+   background: linear-gradient(180deg,transparent 0,transparent 65%,rgba(0,0,0,.35) 83.5%,rgba(0,0,0,.75));
+   border-radius: 12px;
+   position: absolute;
+   top: 0;
+   left: 0;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.grandmommy>img{
+   width: 100%;
+   height: 100%;
+   border-radius: 12px;
+   object-fit: cover;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.grandmommy>div.grandson{
+   width: 30%;
+   height: 40px;
+   margin-bottom: 5px;
+   margin-left: 15px;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   gap: 7px;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.grandmommy>div.grandson>svg{
+   color: #fff !important;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.grandmommy>div.grandson>svg:hover{
+   color: #f5c518 !important;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.grandmommy>div.grandson>span{
+   font-family: Roboto-Regular;
+   color: #fff;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.grandmommy>div.grandson>span:hover{
+   color: #f5c518 !important;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.first{
+   width: 92%;
+   height: 48px;
+   margin-top: 10px;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #fff;
+   line-height: 20px;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>a.second{
+   width: 90%;
+   height: fit-content;
+   font-family: Roboto-Regular;
+   font-size: 16px;
+   color: #5799ef;
+   text-decoration-line: none;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.third{
+   width: 90%;
+   margin-top: 5px;
+   height: fit-content;
+   display: flex;
+   align-items: center;
+}
+
+main>div.section8>div.granddaddy>div.Swiepr7 div.swiper-slide>div.third>span{
+   font-size: 12px;
+   color: #ffffffb3;
+}
+/* End main part */

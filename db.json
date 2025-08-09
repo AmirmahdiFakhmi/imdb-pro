@@ -1,0 +1,1472 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "img": "https://m.media-amazon.com/images/M/MV5BMzI1OTQxZDItZWUyYi00Yjc4LWE2Y2ItNDdhODI5ZDFiYzViXkEyXkFqcGc@._CR26,16,2416,1359_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo1",
+      "post": "https://m.media-amazon.com/images/M/MV5BMzU2MGI2NGEtZGZlZC00NjQxLThkMWMtMzZlNDY4Mjk4ZThkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "altp": "poster1",
+      "description": "'Red Sonja'",
+      "des2": "Watch the Trailer",
+      "info1": "1:56",
+      "info2": "53",
+      "info3": "38"
+    },
+    {
+      "id": 2,
+      "img": "https://m.media-amazon.com/images/M/MV5BMzI1OTQxZDItZWUyYi00Yjc4LWE2Y2ItNDdhODI5ZDFiYzViXkEyXkFqcGc@._CR26,16,2416,1359_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo2",
+      "post": "https://m.media-amazon.com/images/M/MV5BMzU2MGI2NGEtZGZlZC00NjQxLThkMWMtMzZlNDY4Mjk4ZThkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "altp": "poster2",
+      "description": "'Red Sonja'",
+      "des2": "Watch the Trailer",
+      "info1": "1:56",
+      "info2": "53",
+      "info3": "38"
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/M/MV5BMzI1OTQxZDItZWUyYi00Yjc4LWE2Y2ItNDdhODI5ZDFiYzViXkEyXkFqcGc@._CR26,16,2416,1359_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo3",
+      "post": "https://m.media-amazon.com/images/M/MV5BMzU2MGI2NGEtZGZlZC00NjQxLThkMWMtMzZlNDY4Mjk4ZThkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "altp": "poster3",
+      "description": "'Red Sonja'",
+      "des2": "Watch the Trailer",
+      "info1": "1:56",
+      "info2": "53",
+      "info3": "38"
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/M/MV5BMzI1OTQxZDItZWUyYi00Yjc4LWE2Y2ItNDdhODI5ZDFiYzViXkEyXkFqcGc@._CR26,16,2416,1359_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo4",
+      "post": "https://m.media-amazon.com/images/M/MV5BMzU2MGI2NGEtZGZlZC00NjQxLThkMWMtMzZlNDY4Mjk4ZThkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "altp": "poster4",
+      "description": "'Red Sonja'",
+      "des2": "Watch the Trailer",
+      "info1": "1:56",
+      "info2": "53",
+      "info3": "38"
+    },
+    {
+      "id": 5,
+      "img": "https://m.media-amazon.com/images/M/MV5BN2QzZTRiZDYtZmI1OC00MTg1LThjZWUtYTM1YmJlMDYzZmRiXkEyXkFqcGc@._CR194,104,3082,1734_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo5",
+      "post": "https://m.media-amazon.com/images/M/MV5BZGQxYWFlNzgtODZjMS00YmM5LWEzZWMtOGVmODMzYjIyODZiXkEyXkFqcGc@._V1_QL75_UY414_CR8,0,280,414_.jpg",
+      "altp": "poster5",
+      "description": "Wednesday Returns Aug. 6",
+      "des2": "Watch the Season 2 Trailer",
+      "info1": "1:59",
+      "info2": "531",
+      "info3": "205"
+    },
+    {
+      "id": 6,
+      "img": "https://m.media-amazon.com/images/M/MV5BN2QzZTRiZDYtZmI1OC00MTg1LThjZWUtYTM1YmJlMDYzZmRiXkEyXkFqcGc@._CR194,104,3082,1734_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo6",
+      "post": "https://m.media-amazon.com/images/M/MV5BZGQxYWFlNzgtODZjMS00YmM5LWEzZWMtOGVmODMzYjIyODZiXkEyXkFqcGc@._V1_QL75_UY414_CR8,0,280,414_.jpg",
+      "altp": "poster6",
+      "description": "Wednesday Returns Aug. 6",
+      "des2": "Watch the Season 2 Trailer",
+      "info1": "1:59",
+      "info2": "531",
+      "info3": "205"
+    },
+    {
+      "id": 7,
+      "img": "https://m.media-amazon.com/images/M/MV5BN2QzZTRiZDYtZmI1OC00MTg1LThjZWUtYTM1YmJlMDYzZmRiXkEyXkFqcGc@._CR194,104,3082,1734_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo7",
+      "post": "https://m.media-amazon.com/images/M/MV5BZGQxYWFlNzgtODZjMS00YmM5LWEzZWMtOGVmODMzYjIyODZiXkEyXkFqcGc@._V1_QL75_UY414_CR8,0,280,414_.jpg",
+      "altp": "poster7",
+      "description": "Wednesday Returns Aug. 6",
+      "des2": "Watch the Season 2 Trailer",
+      "info1": "1:59",
+      "info2": "531",
+      "info3": "205"
+    },
+    {
+      "id": 8,
+      "img": "https://m.media-amazon.com/images/M/MV5BN2QzZTRiZDYtZmI1OC00MTg1LThjZWUtYTM1YmJlMDYzZmRiXkEyXkFqcGc@._CR194,104,3082,1734_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo8",
+      "post": "https://m.media-amazon.com/images/M/MV5BZGQxYWFlNzgtODZjMS00YmM5LWEzZWMtOGVmODMzYjIyODZiXkEyXkFqcGc@._V1_QL75_UY414_CR8,0,280,414_.jpg",
+      "altp": "poster8",
+      "description": "Wednesday Returns Aug. 6",
+      "des2": "Watch the Season 2 Trailer",
+      "info1": "1:59",
+      "info2": "531",
+      "info3": "205"
+    },
+    {
+      "id": 9,
+      "img": "https://m.media-amazon.com/images/M/MV5BYjYyZjYwODYtOTc0Yi00MDBjLWFkNjYtZDJkZGFhNTJiZWVmXkEyXkFqcGc@._CR603,171,5247,2952_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo9",
+      "post": "https://m.media-amazon.com/images/M/MV5BYTIzYTRiOTItZDI4Mi00MWE3LWI1NmMtN2Y2NmU3YTcxZjg3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "altp": "poster9",
+      "description": "Jason Momoa Is Chief of War",
+      "des2": "Watch the Trailer",
+      "info1": "2:52",
+      "info2": "46",
+      "info3": "29"
+    },
+    {
+      "id": 10,
+      "img": "https://m.media-amazon.com/images/M/MV5BYjYyZjYwODYtOTc0Yi00MDBjLWFkNjYtZDJkZGFhNTJiZWVmXkEyXkFqcGc@._CR603,171,5247,2952_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo10",
+      "post": "https://m.media-amazon.com/images/M/MV5BYTIzYTRiOTItZDI4Mi00MWE3LWI1NmMtN2Y2NmU3YTcxZjg3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "altp": "poster10",
+      "description": "Jason Momoa Is Chief of War",
+      "des2": "Watch the Trailer",
+      "info1": "2:52",
+      "info2": "46",
+      "info3": "29"
+    },
+    {
+      "id": 11,
+      "img": "https://m.media-amazon.com/images/M/MV5BYjYyZjYwODYtOTc0Yi00MDBjLWFkNjYtZDJkZGFhNTJiZWVmXkEyXkFqcGc@._CR603,171,5247,2952_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "alt": "Photo11",
+      "post": "https://m.media-amazon.com/images/M/MV5BYTIzYTRiOTItZDI4Mi00MWE3LWI1NmMtN2Y2NmU3YTcxZjg3XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "altp": "poster11",
+      "description": "Jason Momoa Is Chief of War",
+      "des2": "Watch the Trailer",
+      "info1": "2:52",
+      "info2": "46",
+      "info3": "29"
+    }
+  ],
+  "poster": [
+    {
+      "id": 1,
+      "images": "https://m.media-amazon.com/images/M/MV5BMWY0YjBlOWMtYzA2Ni00YWY0LTg4YTEtZDM2OTc2MzgyYjNkXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster1"
+    },
+    {
+      "id": 2,
+      "images": "https://m.media-amazon.com/images/M/MV5BNDEyNWYwZWMtMDExOC00OWY5LWE2OTItNzBjZTE5ZjhiNjE2XkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster2"
+    },
+    {
+      "id": 3,
+      "images": "https://m.media-amazon.com/images/M/MV5BOGU0NTk0ZGEtNDUyYy00NjcxLTljOTQtNDU1ODZmYjEyZTViXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster3"
+    },
+    {
+      "id": 4,
+      "images": "https://m.media-amazon.com/images/M/MV5BZjkzMDIwM2QtOTk4Yy00NDQ5LWJkMTEtZWQ4ZjY4NjFmOWYwXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster4"
+    },
+    {
+      "id": 5,
+      "images": "https://m.media-amazon.com/images/M/MV5BNmQ1ZDM2YTQtZjk3NS00ZWUzLTkwMDUtMGNmZjExNmNiMmQ1XkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster5"
+    },
+    {
+      "id": 6,
+      "images": "https://m.media-amazon.com/images/M/MV5BMTNhMGY3YTUtM2FlMy00YmM0LTg1NmMtNTkxMjFkMDg3MzA2XkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster6"
+    },
+    {
+      "id": 7,
+      "images": "https://m.media-amazon.com/images/M/MV5BZGE1MzIzOTUtY2Q4MC00NzJhLWJkMTQtNjViMWFjZTEyMzQzXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster7"
+    },
+    {
+      "id": 8,
+      "images": "https://m.media-amazon.com/images/M/MV5BOTdiODNjOTItNTFhNy00M2Q1LWE3ZTctNjMxY2RjMWQzOWYyXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster8"
+    },
+    {
+      "id": 9,
+      "images": "https://m.media-amazon.com/images/M/MV5BMDJlM2Y2NTgtOWFhZS00MTEyLTg3NzYtNDVjMjRiYTc5ZWU1XkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster9"
+    },
+    {
+      "id": 10,
+      "images": "https://m.media-amazon.com/images/M/MV5BYjE4NzM2MjMtMThlYi00MTk1LWI1N2MtYmI3NzM3YTJkYWMwXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+      "alt": "Poster10"
+    }
+  ],
+  "celeberity": [
+    {
+      "id": 1,
+      "source": "https://m.media-amazon.com/images/M/MV5BNDZjMjFlODYtZDljNi00MjA1LWJlMWItZDFjNTdjYTU1ZDY0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "34",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "3,390",
+      "name": "Sara Sampaio"
+    },
+    {
+      "id": 2,
+      "source": "https://m.media-amazon.com/images/M/MV5BZDNiMGVkNGUtOWZjMy00MTU0LWFmM2ItMTA5Y2FlMjBjNmJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "35",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "2,549",
+      "name": "Edi Gathegi"
+    },
+    {
+      "id": 3,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTFmZTY1MDgtMGZlOS00NGFlLWIxOTEtZTk4NTQ2NTM2MGE0XkEyXkFqcGc@._V1_QL75_UX280_CR0,25,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "1",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "22",
+      "name": "David Corenswet"
+    },
+    {
+      "id": 4,
+      "source": "https://m.media-amazon.com/images/M/MV5BZDAwNmJmYjctMDk0YS00NGI1LWJlOGEtNGZhODgyNjFjN2ZjXkEyXkFqcGc@._V1_CR1269,127,1496,2244_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "2",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "58",
+      "name": "Rachel Brosnahan"
+    },
+    {
+      "id": 5,
+      "source": "https://m.media-amazon.com/images/M/MV5BZDE2YjY4ODUtZjVmMy00ZmE2LTgwZjgtMWJiZGI0NWY3ODAzXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "3",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "39",
+      "name": "Nicholas Hoult"
+    },
+    {
+      "id": 6,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTYxMDgzMjA5OV5BMl5BanBnXkFtZTcwMzMwMTUxNw@@._V1_QL75_UX280_CR0,2,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "4",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "242",
+      "name": "James Gunn"
+    },
+    {
+      "id": 7,
+      "source": "https://m.media-amazon.com/images/M/MV5BMjU5MzFiMDAtYjc5Mi00ZjYyLWI3NjYtM2NmMGJhOTAyNDMyXkEyXkFqcGc@._V1_QL75_UY280_CR109,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "5",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "626",
+      "name": "Maggie Q"
+    },
+    {
+      "id": 8,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTI3Mzc2ODEyMF5BMl5BanBnXkFtZTYwODkwNTA0._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "6",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "4",
+      "name": "Julian McMahon"
+    },
+    {
+      "id": 9,
+      "source": "https://m.media-amazon.com/images/M/MV5BYmFmYjBiYjQtNDA3NS00ZTA5LTliNmEtNmExYTc2MDJiMmZlXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "7",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "7",
+      "name": "Isabela Merced"
+    },
+    {
+      "id": 10,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTY5NjgyNDU3OV5BMl5BanBnXkFtZTgwNzA4NDczNjE@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "8",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "5",
+      "name": "Kerry Condon"
+    },
+    {
+      "id": 11,
+      "source": "https://m.media-amazon.com/images/M/MV5BZTcwMzgzNzUtOTIzZC00ZDkyLTg0NWQtMjQ0ODcyNGFlNGEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "9",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "8",
+      "name": "Michael Madsen"
+    },
+    {
+      "id": 12,
+      "source": "https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_QL75_UX280_CR0,25,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "10",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "6",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": 13,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "11",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "1",
+      "name": "Scarlett Johansson"
+    },
+    {
+      "id": 14,
+      "source": "https://m.media-amazon.com/images/M/MV5BZTI4NmQ1OGQtOGY2My00YWVhLTkwNDMtZGU3MDQyYTI4NzQyXkEyXkFqcGc@._V1_CR66,0,1047,1570_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "12",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "444",
+      "name": "Angela Sarafyan"
+    },
+    {
+      "id": 15,
+      "source": "https://m.media-amazon.com/images/M/MV5BM2JlMDdmNzEtYzFhNy00OWJlLWJhMjUtODRmNTc0ZTdmNTA5XkEyXkFqcGc@._V1_QL75_UX280_CR0,5,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "13",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "1,360",
+      "name": "Mikaela Hoover"
+    },
+    {
+      "id": 16,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_QL75_UX280_CR0,1,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "14",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "9",
+      "name": "Charlize Theron"
+    },
+    {
+      "id": 17,
+      "source": "https://m.media-amazon.com/images/M/MV5BNDhhZjdlZjctZjQ0OS00ODIwLWFmMTItNmQ0MzJiYTQ0MjFmXkEyXkFqcGc@._V1_QL75_UX280_CR0,10,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "15",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "4",
+      "name": "Jonathan Bailey"
+    },
+    {
+      "id": 18,
+      "source": "https://m.media-amazon.com/images/M/MV5BZDAxOWQ0NmMtNTIzNS00YTdkLWI4MzAtZDM3ZDdmYTNlMjZmXkEyXkFqcGc@._V1_QL75_UY280_CR70,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "16",
+      "svg": "./assets/svg/grayflat.svg",
+      "like": "",
+      "name": "Ana de Armas"
+    },
+    {
+      "id": 19,
+      "source": "https://m.media-amazon.com/images/M/MV5BZDU3ZmMwYjctZmMxMy00YjY2LWI3MmQtYmU4M2MzMDc1NzQxXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "17",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "114",
+      "name": "Milly Alcock  "
+    },
+    {
+      "id": 20,
+      "source": "https://m.media-amazon.com/images/M/MV5BYjg0MjA4OGEtMTc1ZS00ZmJhLTgyYjItMTY4YjI0NjVjNjllXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "18",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "31",
+      "name": "Hailee Steinfeld"
+    },
+    {
+      "id": 21,
+      "source": "https://m.media-amazon.com/images/M/MV5BYTg2ZmUwZjUtNTRiNC00NGFlLWExZmMtYzk3ODU3NjNmNmEzXkEyXkFqcGc@._V1_QL75_UY280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "19",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "1,257",
+      "name": "Will Sharpe"
+    },
+    {
+      "id": 22,
+      "source": "https://m.media-amazon.com/images/M/MV5BNzkxMjVmMGUtMDYwZi00MmVjLWFhMGEtYjNiNjA1MjkwYzc5XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "20",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "14",
+      "name": "Melissa Benoist"
+    },
+    {
+      "id": 23,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTU4MjU0NjI4NF5BMl5BanBnXkFtZTgwNjU3NTUzMDI@._V1_QL75_UX280_CR0,7,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "21",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "13",
+      "name": "Jack O'Connell"
+    },
+    {
+      "id": 24,
+      "source": "https://m.media-amazon.com/images/M/MV5BMjAxNzUwNjExOV5BMl5BanBnXkFtZTcwNDUyMTUxNw@@._V1_QL75_UY280_CR48,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "22",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "8",
+      "name": "Priyanka Chopra Jonas"
+    },
+    {
+      "id": 25,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "23",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "159",
+      "name": "Nathan Fillion"
+    },
+    {
+      "id": 26,
+      "source": "https://m.media-amazon.com/images/M/MV5BMjMyNjYwNjE3Ml5BMl5BanBnXkFtZTcwMTI0NTQwOA@@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "24",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "69",
+      "name": "Tom Sturridge"
+    },
+    {
+      "id": 27,
+      "source": "https://m.media-amazon.com/images/M/MV5BMmU1YWU1NmMtMjAyMi00MjFiLWFmZmUtOTc1ZjI5ODkxYmQyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "25",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "17",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": 28,
+      "source": "https://m.media-amazon.com/images/M/MV5BMjliM2RiZTctZjM0NS00MzE1LWFhZGMtZDYxODUxYjE2Mjc0XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "26",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "19",
+      "name": "Jake Weary"
+    },
+    {
+      "id": 29,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTY5MDI4NzkxOV5BMl5BanBnXkFtZTgwNzc2MzU0MzE@._V1_QL75_UX280_CR0,25,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "27",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "18",
+      "name": "Matthew Goode"
+    },
+    {
+      "id": 30,
+      "source": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_QL75_UX280_CR0,18,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "28",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "160",
+      "name": "SaAlan Tudykr"
+    },
+    {
+      "id": 31,
+      "source": "http://m.media-amazon.com/images/M/MV5BZTgyMDhmYWUtZWUzZS00ODBiLWIyMzctMTM3ODZlNmU0ZTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,19,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "29",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "32",
+      "name": "Vanessa Kirby"
+    },
+    {
+      "id": 32,
+      "source": "https://m.media-amazon.com/images/M/MV5BZWNlYmQ3MzctNTM4OC00Mjk5LTlmM2EtNTU4MjgxMjNiZGEyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "30",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "5",
+      "name": "Pedro Pascal"
+    },
+    {
+      "id": 33,
+      "source": "https://m.media-amazon.com/images/M/MV5BMmExYjVlNGUtMTA1OC00ZTcxLTk3N2EtN2FkYmY4Yzg4OTE3XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "31",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "11",
+      "name": "Lee Byung-hun"
+    },
+    {
+      "id": 34,
+      "source": "https://m.media-amazon.com/images/M/MV5BY2YwYjg4NjItZGFjNC00NzgzLWJhMTktYTZmODlmM2Y4ODJjXkEyXkFqcGc@._V1_QL75_UX280_CR0,23,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "32",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "275",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": 35,
+      "source": "https://m.media-amazon.com/images/M/MV5BYzMyMjc4YzYtMjg5YS00YzBjLTgzZmUtYmE5YmNkZTAzMmU5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "33",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "518",
+      "name": "Skyler Gisondo"
+    },
+    {
+      "id": 36,
+      "source": "https://m.media-amazon.com/images/M/MV5BNDZjMjFlODYtZDljNi00MjA1LWJlMWItZDFjNTdjYTU1ZDY0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "34",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "3,390",
+      "name": "Sara Sampaio"
+    },
+    {
+      "id": 37,
+      "source": "https://m.media-amazon.com/images/M/MV5BZDNiMGVkNGUtOWZjMy00MTU0LWFmM2ItMTA5Y2FlMjBjNmJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "35",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "2,549",
+      "name": "Edi Gathegi"
+    },
+    {
+      "id": 38,
+      "source": "https://m.media-amazon.com/images/M/MV5BMjI1NDQwMDA5N15BMl5BanBnXkFtZTgwMDI2OTQ1NDM@._V1_QL75_UY280_CR71,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "36",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "24",
+      "name": "Holt McCallany"
+    },
+    {
+      "id": 39,
+      "source": "https://m.media-amazon.com/images/M/MV5BN2E5MDM1Y2UtYmQyMy00NDI1LWJjYjYtYjEyM2UwNmRkNmRhXkEyXkFqcGc@._V1_CR163,17,267,401_QL75_UX280_CR0,25,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "37",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "3",
+      "name": "Lilli Kay"
+    },
+    {
+      "id": 40,
+      "source": "https://m.media-amazon.com/images/M/MV5BZGQ2NzYzMzMtYjQxNy00MDI1LTkxODMtMDhkNjg0YjQ5MzIxXkEyXkFqcGc@._V1_QL75_UY280_CR70,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "38",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "2",
+      "name": "Ebon Moss-Bachrach"
+    },
+    {
+      "id": 41,
+      "source": "https://m.media-amazon.com/images/M/MV5BNWFmNmI2NmYtNDUyYi00MDZhLTk0ZmEtODY0MmM5NGQxMWEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "39",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "60",
+      "name": "Henry Cavill"
+    },
+    {
+      "id": 42,
+      "source": "https://m.media-amazon.com/images/M/MV5BNjUyMDcxNTU3N15BMl5BanBnXkFtZTcwMDAwNjQzMg@@._V1_QL75_UX280_CR0,25,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "40",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "4",
+      "name": "Virginia Madsen"
+    },
+    {
+      "id": 43,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_QL75_UX280_CR0,25,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "41",
+      "svg": "./assets/svg/greenup.svg",
+      "like": "29",
+      "name": "Alexander Skarsgård"
+    },
+    {
+      "id": 44,
+      "source": "https://m.media-amazon.com/images/M/MV5BNDExZjdlM2UtZGY5Zi00NGNkLWEzNTAtYTI4M2NiMzJmY2QwXkEyXkFqcGc@._V1_CR359,1,622,933_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "42",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "24",
+      "name": "Emily Alyn Lind"
+    },
+    {
+      "id": 45,
+      "source": "https://m.media-amazon.com/images/M/MV5BYmYyYWM1OTctYWNjZS00NTcxLTkwODAtZjU4MzAwMzJkNDM1XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "43",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "28",
+      "name": "Damson Idris"
+    },
+    {
+      "id": 46,
+      "source": "https://m.media-amazon.com/images/M/MV5BMjA4NjAyMDM2N15BMl5BanBnXkFtZTgwMDQ3ODgxNDM@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "44",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "5",
+      "name": "Rupert Friend"
+    },
+    {
+      "id": 47,
+      "source": "https://m.media-amazon.com/images/M/MV5BMzNkYWUxOGUtYTIyNi00ZTkyLThjNzAtMDllZjgyZWYzODlmXkEyXkFqcGc@._V1_QL75_UY280_CR109,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "45",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "21",
+      "name": "Jensen Ackles"
+    },
+    {
+      "id": 48,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTQ5MzkzNTIyN15BMl5BanBnXkFtZTYwNzUzOTA2._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "46",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "15",
+      "name": "John Cena"
+    },
+    {
+      "id": 49,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTI3NDE3NTAyOF5BMl5BanBnXkFtZTcwNTg0MDEwMg@@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "47",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "30",
+      "name": "Maria Bello"
+    },
+    {
+      "id": 50,
+      "source": "https://m.media-amazon.com/images/M/MV5BMTQ3ODEyNjA4Nl5BMl5BanBnXkFtZTgwMTE4ODMyMjE@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "48",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "5",
+      "name": "Tom Hardy"
+    },
+    {
+      "id": 51,
+      "source": "https://m.media-amazon.com/images/M/MV5BZTIwYmNjMjctYTAyZi00Njg0LWJmZWQtZTc1MmZjZjBiMmQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "49",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "23",
+      "name": "Sydney Sweeney"
+    },
+    {
+      "id": 52,
+      "source": "https://m.media-amazon.com/images/M/MV5BZmIxMTFkZTctYzhkZi00MmQ4LThhYzEtMmQwMGZjNzA5MDg0XkEyXkFqcGc@._V1_QL75_UX280_CR0,2,280,280_.jpg",
+      "alternative": "celeberity",
+      "rateing": "50",
+      "svg": "./assets/svg/reddown.svg",
+      "like": "5",
+      "name": "Florence Pugh"
+    }
+  ],
+  "watchList1": [
+    {
+      "id": 1,
+      "picture": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "Alter": "movie1",
+      "rate": "7.6",
+      "num": "1",
+      "seriName": "1. Superman"
+    },
+    {
+      "id": 2,
+      "picture": "https://m.media-amazon.com/images/M/MV5BODkxMDM5YWItNDcxZi00NjQ3LWE3NzMtNjM0MzgyNWM0MDhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie2",
+      "rate": "7.3",
+      "num": "2",
+      "seriName": "2. Untamed"
+    },
+    {
+      "id": 3,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMzgxNzUwZTctMzliNi00MDUwLWE4YzctNjgwMDE2OWQwNzMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie3",
+      "rate": "9.1",
+      "num": "3",
+      "seriName": "3. Dexter: Resurrection"
+    },
+    {
+      "id": 4,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie4",
+      "rate": "5.6",
+      "num": "4",
+      "seriName": "4. I Know What You Did Last Summer"
+    },
+    {
+      "id": 5,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMDE1N2EzMjAtMDY1My00YWE5LWEyYjYtYmE3YjZjNzQwNDhmXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+      "Alter": "movie5",
+      "rate": "6.2",
+      "num": "5",
+      "seriName": "5. Jurassic World: Rebirth"
+    },
+    {
+      "id": 6,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNmZlN2MzNGQtMTg4Yy00N2RmLThkZWQtMjVmMmE3MmY4ODIwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "Alter": "movie6",
+      "rate": "7.7",
+      "num": "6",
+      "seriName": "6. Ballard"
+    },
+    {
+      "id": 7,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZTYwYjJhNzYtY2ZiZS00ZmYxLWJkZjctYjRlNGIxYjI3ZTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie7",
+      "rate": "7.9",
+      "num": "7",
+      "seriName": "7. F1: The Movie"
+    },
+    {
+      "id": 8,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie8",
+      "rate": "7.7  ",
+      "num": "8",
+      "seriName": "8. Sinners"
+    },
+    {
+      "id": 9,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYjhkZjM3ZWYtMjUxMS00YzhlLTkxZWYtMzhkMzFhOTQ1NjRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie9",
+      "rate": "6.5",
+      "num": "9",
+      "seriName": "9. The Amateur"
+    },
+    {
+      "id": 10,
+      "picture": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+      "Alter": "movie10",
+      "rate": "7.9",
+      "num": "10",
+      "seriName": "10. How to Train Your Dragon"
+    }
+  ],
+  "watchList2": [
+    {
+      "id": 1,
+      "picture": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "Alter": "movie1",
+      "rate": "7.6",
+      "num": "1",
+      "seriName": "Superman"
+    },
+    {
+      "id": 2,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNTEyYjI2NjEtMjU1Ni00Yzc1LWFmZTQtNmQzM2FhYzE2MjNlXkEyXkFqcGc@._V1_QL75_UY414_CR16,0,280,414_.jpg",
+      "Alter": "movie2",
+      "rate": "7.7",
+      "num": "2",
+      "seriName": "Saiyaara"
+    },
+    {
+      "id": 3,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZTYwYjJhNzYtY2ZiZS00ZmYxLWJkZjctYjRlNGIxYjI3ZTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie3",
+      "rate": "7.9",
+      "num": "3",
+      "seriName": "F1: The Movie"
+    },
+    {
+      "id": 4,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie4",
+      "rate": "7.7",
+      "num": "4",
+      "seriName": "Sinners"
+    },
+    {
+      "id": 5,
+      "picture": "https://m.media-amazon.com/images/M/MV5BODkxMDM5YWItNDcxZi00NjQ3LWE3NzMtNjM0MzgyNWM0MDhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie5",
+      "rate": "7.3",
+      "num": "5",
+      "seriName": "Untamed"
+    },
+    {
+      "id": 6,
+      "picture": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+      "Alter": "movie6",
+      "rate": "7.9",
+      "num": "6",
+      "seriName": "How to Train Your Dragon"
+    },
+    {
+      "id": 7,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYWE2NmNmYTItZGY0ZC00MmY2LTk1NDAtMGUyMGEzMjcxNWM0XkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
+      "Alter": "movie7",
+      "rate": "7.3",
+      "num": "7",
+      "seriName": "Thunderbolts*"
+    },
+    {
+      "id": 8,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNzdhZmY2OTQtYWI4OC00ZThkLTlhZjAtNzE2YzRjM2Q5YjJlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie8",
+      "rate": "7.0",
+      "num": "8",
+      "seriName": "Ballerina"
+    },
+    {
+      "id": 9,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie9",
+      "rate": "8.0",
+      "num": "9",
+      "seriName": "Squid Game"
+    },
+    {
+      "id": 10,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie10",
+      "rate": "7.8",
+      "num": "10",
+      "seriName": "KPop Demon Hunters"
+    },
+    {
+      "id": 11,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "Alter": "movie11",
+      "rate": "7.1",
+      "num": "11",
+      "seriName": "28 Years Later"
+    },
+    {
+      "id": 12,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMzgxNzUwZTctMzliNi00MDUwLWE4YzctNjgwMDE2OWQwNzMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie12",
+      "rate": "9.1",
+      "num": "12",
+      "seriName": "Dexter: Resurrection"
+    },
+    {
+      "id": 13,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie13",
+      "rate": "7.2",
+      "num": "13",
+      "seriName": "Bring Her Back"
+    },
+    {
+      "id": 14,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "Alter": "movie14",
+      "rate": "9.5",
+      "num": "14",
+      "seriName": "Breaking Bad"
+    },
+    {
+      "id": 15,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNWQ3MDQ2MGQtOGM0MC00MzlkLWE0ODQtYzE4Zjc3Mjc1ZWI5XkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "Alter": "movie15",
+      "rate": "8.2",
+      "num": "15",
+      "seriName": "Dept. Q"
+    },
+    {
+      "id": 16,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie16",
+      "rate": "8.7",
+      "num": "16",
+      "seriName": "Interstellar"
+    },
+    {
+      "id": 17,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "Alter": "movie17",
+      "rate": "9.3",
+      "num": "17",
+      "seriName": "The Shawshank Redemption"
+    },
+    {
+      "id": 18,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNmZlN2MzNGQtMTg4Yy00N2RmLThkZWQtMjVmMmE3MmY4ODIwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "Alter": "movie18",
+      "rate": "7.7",
+      "num": "18",
+      "seriName": "Ballard"
+    },
+    {
+      "id": 19,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie19",
+      "rate": "9.1",
+      "num": "19",
+      "seriName": "The Dark Knight"
+    },
+    {
+      "id": 20,
+      "picture": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "Alter": "movie20",
+      "rate": "8.8",
+      "num": "20",
+      "seriName": "Fight Club"
+    },
+    {
+      "id": 21,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "Alter": "movie21",
+      "rate": "8.4",
+      "num": "21",
+      "seriName": "MobLand"
+    },
+    {
+      "id": 22,
+      "picture": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie22",
+      "rate": "8.3",
+      "num": "22",
+      "seriName": "Oppenheimer"
+    },
+    {
+      "id": 23,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_QL75_UX280_CR0,2,280,414_.jpg",
+      "Alter": "movie23",
+      "rate": "9.2",
+      "num": "23",
+      "seriName": "Game of Thrones"
+    },
+    {
+      "id": 24,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_QL75_UY414_CR0,0,280,414_.jpg",
+      "Alter": "movie24",
+      "rate": "7.1",
+      "num": "24",
+      "seriName": "Man of Steel"
+    },
+    {
+      "id": 25,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie25",
+      "rate": "8.8",
+      "num": "25",
+      "seriName": "Inception"
+    },
+    {
+      "id": 26,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_QL75_UY414_CR11,0,280,414_.jpg",
+      "Alter": "movie26",
+      "rate": "9.0",
+      "num": "26",
+      "seriName": "One Piece"
+    },
+    {
+      "id": 27,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMGEwMDFmNGMtZmY2OS00OWJlLWFiMjQtYjg1NzFmYjcwNmVkXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "Alter": "movie27",
+      "rate": "9.1",
+      "num": "27",
+      "seriName": "Tanvi: The Great"
+    },
+    {
+      "id": 28,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie28",
+      "rate": "8.6",
+      "num": "28",
+      "seriName": "Stranger Things"
+    },
+    {
+      "id": 29,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie29",
+      "rate": "7.1",
+      "num": "29",
+      "seriName": "Eddington"
+    },
+    {
+      "id": 30,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Alter": "movie30",
+      "rate": "8.5",
+      "num": "30",
+      "seriName": "The Last of Us"
+    }
+  ],
+  "genre": [
+    {
+      "id": 1,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTM2MzY1ODc1Nl5BMl5BanBnXkFtZTcwNTg4OTY3Nw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Superhero"
+    },
+    {
+      "id": 2,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMjIzMjE3MTI1NF5BMl5BanBnXkFtZTgwNzE3MTgyNDM@._V1_QL75_UX1000_CR0,94,1000,563_.jpg",
+      "genreName": "Coming-of-Age"
+    },
+    {
+      "id": 3,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BZTQ1MmFmYmUtNWI4YS00YjJhLTk0YzgtZGM4ODQ4N2ZkYTAzXkEyXkFqcGc@._V1_QL75_UY563_CR170,0,1000,563_.jpg",
+      "genreName": "Slasher Horror"
+    },
+    {
+      "id": 4,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BOWNmOTliZjgtMmRkYy00Zjk5LThiMWQtNDYxZmUzN2QzNzdiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Raunchy Comedy"
+    },
+    {
+      "id": 5,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTkxOTA2OTgzM15BMl5BanBnXkFtZTgwOTgzMzI5NzM@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+      "genreName": "Dark Comedy"
+    },
+    {
+      "id": 6,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMWM3ZjRhMDQtZDUzYi00NWY0LThhMDQtZTM2MjZmNjRlMTRmXkEyXkFqcGc@._V1_QL75_UY563_CR172,0,1000,563_.jpg",
+      "genreName": "Thriller"
+    },
+    {
+      "id": 7,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMjU5NjQyNTcwOV5BMl5BanBnXkFtZTcwMzc3NzUyMw@@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+      "genreName": "Comedy"
+    },
+    {
+      "id": 8,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTgyODQ2OTkyOV5BMl5BanBnXkFtZTgwNDM3MjI0NDE@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+      "genreName": "Steamy Romance"
+    },
+    {
+      "id": 9,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMGYzOTdhY2EtZjYwYi00ZjhmLWIwNjQtZjc1OWNmODcyOWMzXkEyXkFqcGc@._V1_QL75_UY563_CR25,0,1000,563_.jpg",
+      "genreName": "Anime"
+    },
+    {
+      "id": 10,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BOTA4MWQxNTQtOWRlNS00ZTQ0LWI5NmEtZjRmYTAxMTk5ZDU0XkEyXkFqcGc@._V1_QL75_UY563_CR23,0,1000,563_.jpg",
+      "genreName": "Horror"
+    },
+    {
+      "id": 11,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTg4MDEyODA0NF5BMl5BanBnXkFtZTgwMzUxNDE2MzI@._V1_QL75_UY563_CR18,0,1000,563_.jpg",
+      "genreName": "Dystopian Sci-Fi"
+    },
+    {
+      "id": 12,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BNTc3Yzg0ZGItMzdmMS00OTVkLWE0NTgtM2VlMjUzYWIwNmY3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,18,1000,563_.jpg",
+      "genreName": "Sitcom"
+    },
+    {
+      "id": 13,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BOTFhMzgwNzQtNTYzMS00NDdlLWJkMjYtMGY3ZGY5NjZjYjliXkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg",
+      "genreName": "Gangster"
+    },
+    {
+      "id": 14,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BOTkxMzc0MDg5MV5BMl5BanBnXkFtZTcwNjUxMzA4NA@@._V1_QL75_UX1000_CR0,56,1000,563_.jpg",
+      "genreName": "Sci-Fi"
+    },
+    {
+      "id": 15,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BNDY5ZTkyYTQtNTZmMC00YTU2LTg1NjItMjE4MDZhYmNiZTRiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+      "genreName": "Fantasy Epic"
+    },
+    {
+      "id": 16,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BN2I4MDk2ODQtZjU3YS00Zjk5LThlNDMtYjljNjY4NzdjODBkXkEyXkFqcGc@._V1_QL75_UY563_CR161,0,1000,563_.jpg",
+      "genreName": "Psychological Thriller"
+    },
+    {
+      "id": 17,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BY2M4MTFlOWMtYzhiYS00OGI3LTg0ODItODk3ODVjMzIyMmMyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+      "genreName": "Crime"
+    },
+    {
+      "id": 18,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMzI3NTUyNTg0NF5BMl5BanBnXkFtZTcwNTk2NDcwNw@@._V1_QL75_UX1000_CR0,53,1000,563_.jpg",
+      "genreName": "Biography"
+    },
+    {
+      "id": 19,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BYjFmZTQyZjktYTBjOS00YjFiLWFhNDEtOTY5YmRmNDJhMDlkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+      "genreName": "Drama"
+    },
+    {
+      "id": 20,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTlmNjQxNGItMmM1My00YTk2LTk2NjYtNTc4YWFjYTgxNTRiXkEyXkFqcGc@._V1_QL75_UY563_CR162,0,1000,563_.jpg",
+      "genreName": "Adventure"
+    },
+    {
+      "id": 21,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BYTczMGFjOGUtZDJlMy00NWE2LWI5MGYtZWRkOThlZDllNjEwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "War"
+    },
+    {
+      "id": 22,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTUzNjg4NjA1M15BMl5BanBnXkFtZTgwMjI0OTcyMDI@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+      "genreName": "One-Person Army Action"
+    },
+    {
+      "id": 23,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMDU4ZmM1NjYtNGY2MS00NmE1LThiMzAtNzU3NWZhYmM0ZjgxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Action"
+    },
+    {
+      "id": 24,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTRkZDQwZjEtMmY2Ny00Zjg1LWJkY2MtOGQ4YWY4NjJiZjhjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Erotic Thriller"
+    },
+    {
+      "id": 25,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BODkyMTYzNDExNl5BMl5BanBnXkFtZTcwNTAwOTMyMw@@._V1_QL75_UX1000_CR0,43,1000,563_.jpg",
+      "genreName": "Psychological Drama"
+    },
+    {
+      "id": 26,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMzBiMjliOWUtYjBhNC00NWI1LWEzMzYtMjZmZTY4YmM1MzQwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Mystery"
+    },
+    {
+      "id": 27,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BZjgwNzRkZWYtZjA5YS00MmU4LWE3NmQtOWI1OTQxNjQ4MzcwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,20,1000,563_.jpg",
+      "genreName": "Suspense Mystery"
+    },
+    {
+      "id": 28,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BNWEwY2NjZjItMzA5Zi00ZDU0LTljOWItOGZiODJhMGE5MTIyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Supernatural Horror"
+    },
+    {
+      "id": 29,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTUxMjEzNzE1NF5BMl5BanBnXkFtZTgwNDYwNjUzMTI@._V1_QL75_UY563_CR1,0,1000,563_.jpg",
+      "genreName": "Psychological Horror"
+    },
+    {
+      "id": 30,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMmJiY2IzZGItMzA4Ni00OWVkLWJjZGUtZDYzNDllNjY4OGEwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg",
+      "genreName": "Documentary"
+    },
+    {
+      "id": 31,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMzI1NDk0MzEzN15BMl5BanBnXkFtZTcwOTE0MjIyNw@@._V1_QL75_UY563_CR21,0,1000,563_.jpg",
+      "genreName": "Animation"
+    },
+    {
+      "id": 32,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BZjdhOTYwZTktNzUwOS00MWJiLWI0ZDgtN2ZhNzhlZTUzNmM4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,59,1000,563_.jpg",
+      "genreName": "Dark Fantasy"
+    },
+    {
+      "id": 33,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BYTM5MWY2YWItNTllNC00Yzc3LTlkMTctZGM0ZDViZDczZmVjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,37,1000,563_.jpg",
+      "genreName": "Period Drama"
+    },
+    {
+      "id": 34,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BM2RkNmFkZTItODFkMS00Yjk5LTg2YTQtMGQ0Zjc0Mzk3ZGQ5XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg",
+      "genreName": "Action Epic"
+    },
+    {
+      "id": 35,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMjI3MTU0ODQ2MF5BMl5BanBnXkFtZTcwNTQzNTIwNA@@._V1_QL75_UX1000_CR0,59,1000,563_.jpg",
+      "genreName": "Serial Killer"
+    },
+    {
+      "id": 36,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BY2I1MTE5OWMtNzY0My00YTg0LWE5ODEtNTg5NDMzNDFkNzNiXkEyXkFqcGc@._V1_QL75_UY563_CR28,0,1000,563_.jpg",
+      "genreName": "Romantic Comedy"
+    },
+    {
+      "id": 37,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTJjZWE5NzYtYjEyNC00ZDUyLTgxMTAtNDgyOWUzZWExMzUwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Zombie Horror"
+    },
+    {
+      "id": 38,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTA1OTcyMzQ0MTBeQTJeQWpwZ15BbWU4MDIwNzE4OTEx._V1_QL75_UX1000_CR0,59,1000,563_.jpg",
+      "genreName": "Family"
+    },
+    {
+      "id": 39,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BYTBhNGUyNTktYTlhYy00MzNkLThkMmQtYTZiNTNhZTMzYjcyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Computer Animation"
+    },
+    {
+      "id": 40,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMzk4MjRiYmUtNzkwMi00YWJiLTliMjktNDkyNzlmMjk4MThmXkEyXkFqcGc@._V1_QL75_UY563_CR191,0,1000,563_.jpg",
+      "genreName": "Korean Drama"
+    },
+    {
+      "id": 41,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTMxNjA5MzkzN15BMl5BanBnXkFtZTcwNjU5NDIyMw@@._V1_QL75_UX1000_CR0,51,1000,563_.jpg",
+      "genreName": "True Crime"
+    },
+    {
+      "id": 42,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BOWY4MTM1M2QtZWIwMi00MWRkLWFhNDItOWI5MjA3ZWQyNTgwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,1,1000,563_.jpg",
+      "genreName": "Buddy Comedy"
+    },
+    {
+      "id": 43,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BODAzMDA4ZDYtNjJlNi00ZjlmLTk2ZTQtZTQ2NzI1ODg2M2ZjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Disaster"
+    },
+    {
+      "id": 44,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BM2RmYmUyODktNDNhOC00YTBjLTg3ZDktYjZiOTYzOTI3MTRjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "genreName": "Feel-Good Romance"
+    },
+    {
+      "id": 45,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTc5NTU2NDQ5Ml5BMl5BanBnXkFtZTcwMDIxMjk2Mw@@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
+      "genreName": "Fantasy"
+    },
+    {
+      "id": 46,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BNTJiYjhkM2YtNjU0MC00MzMwLWE1ODktMGFkZWM3NTk4NDdkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,3,1000,563_.jpg",
+      "genreName": "Found Footage Horror"
+    },
+    {
+      "id": 47,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMjQxNDM4ODE0OV5BMl5BanBnXkFtZTgwNjk4Mjk4MzI@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+      "genreName": "Mockumentary"
+    },
+    {
+      "id": 48,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BMTc0MzYxMTQ1M15BMl5BanBnXkFtZTgwOTk0MTI2NDM@._V1_QL75_UX1000_CR0,119,1000,563_.jpg",
+      "genreName": "Romance"
+    },
+    {
+      "id": 49,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BOTQ5OTE0YzgtNTBlOC00MjQ1LTg5NzQtNTE0N2I5MjVkNGYxXkEyXkFqcGc@._V1_QL75_UY563_CR24,0,1000,563_.jpg",
+      "genreName": "History"
+    },
+    {
+      "id": 50,
+      "genrePic": "https://m.media-amazon.com/images/M/MV5BY2YzZjcwNjktMTIyNi00Nzg0LWEyMDctOTdiZDZmOTEzOTQ2XkEyXkFqcGc@._V1_QL75_UY563_CR19,0,1000,563_.jpg",
+      "genreName": "Time Travel"
+    }
+  ],
+  "prime":[
+    {
+      "id": 1,
+      "picture": "https://m.media-amazon.com/images/M/MV5BOTQ5NDVjZjAtZDM4NC00NmQzLTkwZmYtYjQ1YjQ5NDJjZjFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "6.1",
+      "seriName": "The Voyeurs"
+    },
+    {
+      "id": 2,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNGUwMTZjYTMtY2RmMC00N2MxLWE0MjktZGRiNjAwNjk3ZTQ5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "6.2",
+      "seriName": "Chehre"
+    },
+    {
+      "id": 3,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZjdjNTYwYjQtYTBmNC00MjRlLTljZTctZDBiNTY5NWFiZDhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "4.4",
+      "seriName": "Cinderella"
+    },
+    {
+      "id": 4,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYmUyNzY2YWYtNWQ0My00ODMwLTkwOTQtOTA0ZjM0MjRmYjJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "6.6",
+      "seriName": "The Tomorrow War"
+    },
+    {
+      "id": 5,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZmQ5ZGNhY2YtNzJlYS00YTY5LWI0MjUtNGVjNzE5NGYxM2MwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "4.5",
+      "seriName": "Black as Night"
+    },
+    {
+      "id": 6,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZjg1NjQ2MTgtZTcwMi00NGUzLWE5NzgtMGU5Y2Y4OWY3OWIxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "5.3",
+      "seriName": "The Manor"
+    },
+    {
+      "id": 7,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNThkNmM4OGMtYWQzZS00NDQzLWJhMTktZThkNDg0NDIwODY3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "4.3",
+      "seriName": "Bingo Hell"
+    },
+    {
+      "id": 8,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYWVkYzhkNzMtMGQzNC00NmNmLThkZTMtZTk0ZmM1M2U2MGI1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "6.6",
+      "seriName": "Everybody's Talking About Jamie"
+    },
+    {
+      "id": 9,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTlmY2Y5NTItMzU4Mi00ZTljLWFlZWItZDg2ZmJhNjFiMjA2XkEyXkFqcGc@._V1_QL75_UY414_CR1,0,280,414_.jpg",
+      "rate": "5.9",
+      "seriName": "Birds of Paradise"
+    },
+    {
+      "id": 10,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZTAzNzg0OGUtZmY1My00Y2VmLTk2YzYtNDU3MjlmNzU5ZjE3XkEyXkFqcGc@._V1_QL75_UY414_CR16,0,280,414_.jpg",
+      "rate": "8.3",
+      "seriName": "Shershaah"
+    },
+    {
+      "id": 11,
+      "picture": "https://m.media-amazon.com/images/M/MV5BN2IzNGQ4ZDItMWEzZC00ODRhLTkxZjUtMDJiNTk1Mjg4MDNmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "4.8",
+      "seriName": "Madres"
+    },
+    {
+      "id": 12,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMDAyZWU5N2YtMzY0OC00YzJjLTljNzctMDdhMmFiODcwNzY5XkEyXkFqcGc@._V1_QL75_UY414_CR14,0,280,414_.jpg",
+      "rate": "5.9",
+      "seriName": "Thalaivi"
+    },
+    {
+      "id": 13,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZTczYTQ0MmEtOGMwZS00YzBlLWE2ZDktZmQ4NTM2YTViY2NkXkEyXkFqcGc@._V1_QL75_UY414_CR27,0,280,414_.jpg",
+      "rate": "5.0",
+      "seriName": "Justin Bieber: Our World"
+    },
+    {
+      "id": 14,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMjQ2MTIyNjM2MF5BMl5BanBnXkFtZTgwMDE3NDMyNjM@._V1_QL75_UX280_CR0,9,280,414_.jpg",
+      "rate": "6.7",
+      "seriName": "Suspiria"
+    },
+    {
+      "id": 15,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMzNhOGJiMDQtYzBmOC00OGY2LTg0ZDUtYTBjMTI5MTA4M2NjXkEyXkFqcGc@._V1_QL75_UY414_CR3,0,280,414_.jpg",
+      "rate": "6.1",
+      "seriName": "Bellbottom"
+    },
+    {
+      "id": 16,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "7.7",
+      "seriName": "Sound of Metal"
+    },
+    {
+      "id": 17,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNTRhNjg3NGMtMDM3Mi00ZmRmLTg0ZDMtYTBhMThiN2YxMTdjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "7.4",
+      "seriName": "Beautiful Boy"
+    },
+    {
+      "id": 18,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNzE0NjU1MmUtZWUzMS00ZWRiLWE5ZjYtODk3NmRlMmExYWI1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "5.8",
+      "seriName": "Without Remorse"
+    },
+    {
+      "id": 19,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYmVlYjgxMzUtY2E4Zi00MmMzLWI5YjgtMGRhMThjYTQxNmZhXkEyXkFqcGc@._V1_QL75_UY414_CR12,0,280,414_.jpg",
+      "rate": "6.7",
+      "seriName": "The Mad Women's Ball"
+    },
+    {
+      "id": 20,
+      "picture": "https://m.media-amazon.com/images/M/MV5BN2NhODZjMTktOGNmOC00OTllLTk3NWItYzNiNmRlNTYwMTcxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "5.3",
+      "seriName": "Coming 2 America"
+    },
+    {
+      "id": 21,
+      "picture": "https://m.media-amazon.com/images/M/MV5BOWQ2OTk4YTMtNmM1Mi00YjczLWExMTktOWM1ODIyMzJmODMzXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+      "rate": "5.9",
+      "seriName": "Hollow Man"
+    },
+    {
+      "id": 22,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMmRiZjc3NzctNDUyMi00NTc0LTgwNzktNTU1ZmJlZDEyNWFiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "5.4",
+      "seriName": "Bliss"
+    },
+    {
+      "id": 23,
+      "picture": "https://m.media-amazon.com/images/M/MV5BOWJmNDcyOTItYTE0ZS00NzAwLThjNGUtYTdhMjBjMTAwNDc4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "6.6",
+      "seriName": "Borat Subsequent Moviefilm"
+    },
+    {
+      "id": 24,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNzY3NzYyNjI0N15BMl5BanBnXkFtZTgwNjYzMDc0NjM@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "7.0",
+      "seriName": "The Upside"
+    },
+    {
+      "id": 25,
+      "picture": "https://m.media-amazon.com/images/M/MV5BODRhN2U5OTAtYzlkYi00MGM5LWFmYjctZTRkODllZGM5YThlXkEyXkFqcGc@._V1_QL75_UY414_CR1,0,280,414_.jpg",
+      "rate": "7.1",
+      "seriName": "One Night in Miami..."
+    }
+  ],
+  "born": [
+    {
+      "id": 1,
+      "img": "https://m.media-amazon.com/images/M/MV5BNmE3Y2FlMmEtOTYzMC00ZDJiLTk1YWUtNDU3NmNmMWVhMGZmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "name": "Meg Donnelly",
+      "age": "25"
+    },
+    {
+      "id": 2,
+      "img": "https://m.media-amazon.com/images/M/MV5BMDc1MDE0NTYtODM2NS00ZGE2LWE2ODItNDQxOTdkM2M2YzBhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "name": "Shantel VanSanten",
+      "age": "40"
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/M/MV5BODQ0NTI0OTk0M15BMl5BanBnXkFtZTcwMDk2MDg5Nw@@._V1_QL75_UX280_CR0,41,280,280_.jpg",
+      "name": "Matt LeBlanc",
+      "age": "58"
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/M/MV5BYzNiMzRhMTMtNzdiYy00ZDJhLWE2YjktZjYzMzhlNWE2NDFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,74,280,280_.jpg",
+      "name": "Summer Glau",
+      "age": "44"
+    },
+    {
+      "id": 5,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTA1NDE3NDA1MDVeQTJeQWpwZ15BbWU3MDE1NTg5MjE@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "name": "Brad Renfro",
+      "age": "1982-2008"
+    },
+    {
+      "id": 6,
+      "img": "https://m.media-amazon.com/images/M/MV5BMzAyMTA3OTQ3NF5BMl5BanBnXkFtZTcwODA0NTM5Nw@@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "name": "D.B. Woodside",
+      "age": "56"
+    },
+    {
+      "id": 7,
+      "img": "https://m.media-amazon.com/images/M/MV5BYzYxYTI0NjItNjJkMS00YTJjLTk2ZTctNjk1OTU1OTcxYWMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "name": "Illeana Douglas",
+      "age": "64"
+    },
+    {
+      "id": 8,
+      "img": "https://m.media-amazon.com/images/M/MV5BNTdiNGU1Y2QtOTc0Yi00MjU4LWE5YjQtZTM0MTFlMDI5ZGYyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "name": "James Lafferty",
+      "age": "40"
+    },
+    {
+      "id": 9,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTg2NDI0Nzc5M15BMl5BanBnXkFtZTYwMTgxNzM1._V1_QL75_UX280_CR0,10,280,280_.jpg",
+      "name": "Miriam Shor",
+      "age": "54"
+    },
+    {
+      "id": 10,
+      "img": "https://m.media-amazon.com/images/M/MV5BNzE3ZTZhNGUtYWRjMi00NDdlLThiZmUtZmUyODkwZGY0NWY5XkEyXkFqcGc@._V1_QL75_UX280_CR0,5,280,280_.jpg",
+      "name": "Zawe Ashton",
+      "age": "41"
+    },
+    {
+      "id": 11,
+      "img": "https://m.media-amazon.com/images/M/MV5BMjExMTc4NzA5NV5BMl5BanBnXkFtZTcwMTc2MjA2Mw@@._V1_QL75_UX280_CR0,1,280,280_.jpg",
+      "name": "Michael Welch",
+      "age": "38"
+    },
+    {
+      "id": 12,
+      "img": "https://m.media-amazon.com/images/M/MV5BYzYxOGM4MTQtNzE0YS00ZGFkLThjNTctYzcyNDk2OTA3MmU1XkEyXkFqcGc@._V1_QL75_UX280_CR0,25,280,280_.jpg",
+      "name": "Luke Dodge",
+      "age": "20"
+    },
+    {
+      "id": 13,
+      "img": "https://m.media-amazon.com/images/M/MV5BY2ZhNjkyZmQtMzlhNS00NWQxLTlmZmYtZDkxNzY2ZGE3MmQ1XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "name": "Regina Blandón",
+      "age": "35"
+    },
+    {
+      "id": 14,
+      "img": "https://m.media-amazon.com/images/M/MV5BOGQzNWI5N2UtYmU4Zi00YWIxLTk3NGQtMzFmMzMzMWEwZDcyXkEyXkFqcGc@._V1_CR379,112,418,628_QL75_UX280_CR0,25,280,280_.jpg",
+      "name": "David Denman",
+      "age": ""
+    }
+  ]
+}
